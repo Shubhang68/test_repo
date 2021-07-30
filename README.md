@@ -1,3 +1,3 @@
 # test_repo
 
-Version 0
+Version 1.0
